@@ -2,7 +2,6 @@
 DiscordBot is a free, open-source, extensible bot for Discord servers, built on top of <a href="https://discord.js.org">discord.js</a>. This bot is generally self-hosted either on a dedicated server (like a Raspberry pi) or general cloud hosting like AWS etc. You can think of this bot as privacy focused as you are in total control of the code, so you can be sure that your information is secure.
 
 # Features:
-This bot has been in development since 2015 and has accumulated a ton of commands. Here are a few highlights:
 
 ### General Commands
 
