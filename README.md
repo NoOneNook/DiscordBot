@@ -153,8 +153,3 @@ You can create an rss.json file adding rss feeds as commands. See rss.json.examp
 7) Copy this into the auth.json's "google_custom_search" section.
 
 Make sure you also have your Google server API key, which is located in the "youtube_api_key" section, or the search will fail.
-
-# Help
-Please check the GitHub issues page on this project. We get a lot of similar questions, and it is likely that yours has already been answered. 
-
-If you still need help, feel free to join us on [Discord](https://discord.gg/m29GJBN).
